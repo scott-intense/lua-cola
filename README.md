@@ -1,6 +1,6 @@
 # lua-cola
 
-Use C code in your Lua script without writing a native module
+Cola means glue in Portuguese. With lua-cola you can glue C source to Lua without writing native modules.
 
 # requirements
 
